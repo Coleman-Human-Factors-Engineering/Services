@@ -13,13 +13,13 @@
 
 #### I utilize the 7 dimensions of natural science to create lasting, meaningful change:
 
-###### 1. Applied: Focusing on practical, real-world problems.
-###### 2. Behavioral: Targeting observable and measurable behaviors.
-###### 3. Analytic: Ensuring interventions have a clear cause-and-effect relationship.
-###### 4. Technological: Using well-defined procedures that can be replicated.
-###### 5. Conceptually Systematic: Basing methods on established principles.
-###### 6. Effective: Producing significant and socially important results.
-###### 7. Generality: Ensuring solutions are sustainable and applicable across different contexts.
+##### 1. Applied: Focusing on practical, real-world problems.
+##### 2. Behavioral: Targeting observable and measurable behaviors.
+##### 3. Analytic: Ensuring interventions have a clear cause-and-effect relationship.
+##### 4. Technological: Using well-defined procedures that can be replicated.
+##### 5. Conceptually Systematic: Basing methods on established principles.
+##### 6. Effective: Producing significant and socially important results.
+##### 7. Generality: Ensuring solutions are sustainable and applicable across different contexts.
 
 
 ### Market Differentiator: 
@@ -29,31 +29,31 @@
 
 ### Why Choose Coleman Human Factors Engineering?
 
-###### 1. Proven Expertise: As a Certified Human Factors Professional, I bring unparalleled knowledge and experience in optimizing workflows and developing user-centered designs.
-###### 2. Data-Driven Solutions: I rely on rigorous data analysis to identify pain points and craft solutions that are both effective and sustainable.
-###### 3. Efficiency-Driven: My commitment to efficiency means I deliver high-quality results quickly, minimizing disruption and maximizing impact.
-###### 4. Detail-Oriented: I meticulously focus on every detail, ensuring that no aspect of your operation is overlooked in the quest to enhance performance.
-###### 5. Empathetic Approach: By engaging directly with your workforce and observing operations firsthand, I gain a comprehensive understanding of your challenges and needs, allowing me to develop tailored solutions.
+##### 1. Proven Expertise: As a Certified Human Factors Professional, I bring unparalleled knowledge and experience in optimizing workflows and developing user-centered designs.
+##### 2. Data-Driven Solutions: I rely on rigorous data analysis to identify pain points and craft solutions that are both effective and sustainable.
+##### 3. Efficiency-Driven: My commitment to efficiency means I deliver high-quality results quickly, minimizing disruption and maximizing impact.
+##### 4. Detail-Oriented: I meticulously focus on every detail, ensuring that no aspect of your operation is overlooked in the quest to enhance performance.
+##### 5. Empathetic Approach: By engaging directly with your workforce and observing operations firsthand, I gain a comprehensive understanding of your challenges and needs, allowing me to develop tailored solutions.
 
 
 ### How I Add Value to My Clients
 
 #### Healthcare:
 
-###### Enhanced Patient Care: By optimizing ergonomic practices and workflows, I improve patient outcomes and staff well-being.
+##### Enhanced Patient Care: By optimizing ergonomic practices and workflows, I improve patient outcomes and staff well-being.
 ###### Safety and Efficiency: My solutions reduce errors and enhance the overall efficiency of healthcare operations.
 
 #### Technology:
 
-###### User-Centered Interfaces: I design intuitive interfaces that reduce cognitive load and improve user satisfaction.
-###### Innovative Solutions: My behavioral approach drives innovative product design, enhancing usability and market competitiveness.
+##### User-Centered Interfaces: I design intuitive interfaces that reduce cognitive load and improve user satisfaction.
+##### Innovative Solutions: My behavioral approach drives innovative product design, enhancing usability and market competitiveness.
 
 #### Manufacturing:
 
-###### Boosted Productivity: I enhance workplace ergonomics to increase productivity and reduce injury rates.
-###### Improved Worker Satisfaction: My solutions create a safer, more comfortable work environment, leading to higher job satisfaction and retention.
+##### Boosted Productivity: I enhance workplace ergonomics to increase productivity and reduce injury rates.
+##### Improved Worker Satisfaction: My solutions create a safer, more comfortable work environment, leading to higher job satisfaction and retention.
 
 #### Office Environments:
 
-###### Optimized Workspaces: I create ergonomic office spaces that enhance employee comfort and productivity.
-###### Employee Well-Being: My focus on user-centered design promotes overall well-being and reduces workplace stress.
+##### Optimized Workspaces: I create ergonomic office spaces that enhance employee comfort and productivity.
+##### Employee Well-Being: My focus on user-centered design promotes overall well-being and reduces workplace stress.
