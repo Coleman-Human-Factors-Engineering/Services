@@ -1,10 +1,8 @@
 Author: Brian S. Coleman, M.A., AHFP
 title: Coleman Human Factors Engineering
-description: Business Page For Human Factors Engineering Consultant, Brian S. Coleman, M.A., AHFP
 theme: jekyll-theme-cayman
 url: /https://coleman-human-factors-engineering.github.io/Services/
 baseurl: "" 
-# Social links (optional)
 github_username: Coleman-Human-Factors-Engineering
 linkedin_username: https://www.linkedin.com/in/brian-s-coleman/
 navigation:
