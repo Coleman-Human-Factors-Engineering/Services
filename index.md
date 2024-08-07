@@ -41,7 +41,7 @@
 #### Healthcare:
 
 ##### Enhanced Patient Care: By optimizing ergonomic practices and workflows, I improve patient outcomes and staff well-being.
-###### Safety and Efficiency: My solutions reduce errors and enhance the overall efficiency of healthcare operations.
+##### Safety and Efficiency: My solutions reduce errors and enhance the overall efficiency of healthcare operations.
 
 #### Technology:
 
