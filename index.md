@@ -13,13 +13,13 @@
 
 #### I utilize the 7 dimensions of natural science to create lasting, meaningful change:
 
-##### - Applied: Focusing on practical, real-world problems.
-##### - Behavioral: Targeting observable and measurable behaviors.
-##### - Analytic: Ensuring interventions have a clear cause-and-effect relationship.
-##### - Technological: Using well-defined procedures that can be replicated.
-##### - Conceptually Systematic: Basing methods on established principles.
-##### - Effective: Producing significant and socially important results.
-##### - Generality: Ensuring solutions are sustainable and applicable across different contexts.
+##### *** Applied:** Focusing on practical, real-world problems.
+##### *** Behavioral:** Targeting observable and measurable behaviors.
+##### *** Analytic:** Ensuring interventions have a clear cause-and-effect relationship.
+##### *** Technological:** Using well-defined procedures that can be replicated.
+##### *** Conceptually** Systematic: Basing methods on established principles.
+##### *** Effective:** Producing significant and socially important results.
+##### *** Generality:** Ensuring solutions are sustainable and applicable across different contexts.
 
 
 ### Market Differentiator: 
